@@ -1,0 +1,27 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px purple;
+    color: purple;
+    background-color: cyan;
+}
+.note{
+    font-size: 15px ;
+    color:purple;
+}
+.copy_right_footer{
+    position: fixed;
+    color: cyan;
+    bottom: 6px;
+    width: 100%;
+    background-color: purple;
+    line-height: 3;
+    text-align: center;
+    box-shadow: 5px 5px 8px cyan;
+}
+canvas{
+    border: 5px soild white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #27a300;
+}
